@@ -11,60 +11,37 @@
 ---
 
 ### 🔭 Professional Profile
-I am a dedicated **Senior Software Engineer** with a strong focus on building high-performance, scalable, and resilient backend architectures. With a deep background in the **Java ecosystem**, I specialize in designing distributed systems that handle high throughput and complex data flows.
+I am a results-driven **Senior Software Engineer** specializing in high-performance backend architectures. With extensive experience in the **Java ecosystem**, I focus on building resilient distributed systems capable of handling high-throughput data processing.
 
-- ⚡ **Expertise:** Core Java, Spring Boot.
-- 🏗️ **Architecture:** Passionate about Event-Driven Design, Microservices, and Cloud-Native applications.
-- 🛠️ **Problem Solver:** Experienced in performance tuning, JVM optimization, and refactoring legacy systems into modern architectures.
-- 🎓 **Continuous Learner:** Currently exploring Advanced System Design and Kubernetes orchestration.
+- ⚡ **Core Expertise:** Java, Spring Boot.
+- 🏗️ **System Design:** Expert in Microservices, Event-Driven Architecture, and API Design.
+- 🛠️ **Optimization:** Skilled in JVM tuning, SQL/NoSQL performance, and cloud-native scaling.
+- 🎓 **Focus:** Currently deep-diving into Kubernetes orchestration and advanced System Design patterns.
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kafka" width="40" height="40" alt="Kafka" />
-      <br>Kafka
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,postgres,mongodb,redis,maven,git,android,idea,linux" />
+  </a>
+</p>
 
 ---
 
 ### 📫 Let's Connect
-<div align="left">
-  <a href="https://www.linkedin.com/in/mustafa-karadeniz/" target="_blank">
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mustafa.blacksea93@gmail.com" target="_blank">
+  <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mblacksea&label=Profile%20Views&color=0099ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mblacksea&label=Profile%20Views&color=0099ff&style=flat-square" />
 </div>
