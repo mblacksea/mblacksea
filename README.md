@@ -24,7 +24,7 @@ I am a results-driven **Senior Software Engineer** specializing in high-performa
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,postgres,mongodb,redis,maven,git,android,idea,linux" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,postgres,mongodb,redis,maven,git,idea,kubernetes" />
   </a>
 </p>
 
@@ -32,10 +32,10 @@ I am a results-driven **Senior Software Engineer** specializing in high-performa
 
 ### 📫 Let's Connect
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+  <a href="https://www.linkedin.com/in/mustafa-karadeniz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:mustafa.blacksea93@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
