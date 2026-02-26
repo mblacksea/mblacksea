@@ -1,68 +1,97 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=Merhaba,%20Ben%20Mustafa!&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0099ff&height=200&section=header&text=Mustafa%20Karadeniz&fontSize=70&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <h3>Senior Software Engineer 💻 | Java & Backend Enthusiast</h3>
+  <h3>🚀 Senior Software Engineer | Distributed Systems & Backend Architect</h3>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0099ff&center=true&vCenter=true&width=435&lines=Building+scalable+solutions;Java+Backend+Specialist;Open+Source+Contributor)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0099ff&center=true&vCenter=true&width=500&lines=Architecting+Scalable+Microservices;Mastering+Distributed+Caching;Java+Expertise+%26+Cloud+Native;Driving+Technical+Excellence)](https://git.io/typing-svg)
 </div>
 
 ---
 
-### 👨‍💻 Hakkımda
-- 🚀 Şu an **Senior Software Engineer** olarak ölçeklenebilir backend sistemleri üzerine çalışıyorum.
-- 🛠 **Java, Spring Boot, Hazelcast ve Kafka** ekosistemlerinde uzmanlaşıyorum.
-- 📱 Geçmişte Android (QRC Pay vb.) projelerinde yer aldım.
-- ⚡ Performans optimizasyonu ve dağıtık sistemler (Distributed Systems) ilgi alanlarım arasında.
+### 🔭 Professional Profile
+I am a dedicated **Senior Software Engineer** with a strong focus on building high-performance, scalable, and resilient backend architectures. With a deep background in the **Java ecosystem**, I specialize in designing distributed systems that handle high throughput and complex data flows.
+
+- ⚡ **Expertise:** Core Java, Spring Boot, and Distributed Caching (Hazelcast).
+- 🏗️ **Architecture:** Passionate about Event-Driven Design, Microservices, and Cloud-Native applications.
+- 🛠️ **Problem Solver:** Experienced in performance tuning, JVM optimization, and refactoring legacy systems into modern architectures.
+- 🎓 **Continuous Learner:** Currently exploring Advanced System Design and Kubernetes orchestration.
 
 ---
 
-### 🛠 Teknolojik Yetkinlikler
+### 🛠 Tech Stack & Tools
 
-<div align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/hazelcast-%23ED1010.svg?style=for-the-badge&logo=hazelcast&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kafka" width="40" height="40" alt="Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=android" width="40" height="40" alt="Android" />
+      <br>Android
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 Engineering Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mblacksea&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mblacksea&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mblacksea&show_icons=true&theme=radical&rank_icon=github&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mblacksea&layout=compact&theme=radical&border_radius=10" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mblacksea&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mblacksea&theme=radical&border_radius=10" />
 </div>
 
 ---
 
-### 📂 Öne Çıkan Projelerim
-- **[hazelcast-test](https://github.com/mblacksea/hazelcast-test)**: Hazelcast implementasyonları ve test senaryoları.
-- **[docker-spring-boot-web](https://github.com/mblacksea/docker-spring-boot-web)**: Konteynerize edilmiş Spring Boot web uygulamaları.
-- **[Chain-of-Responsibility-Design-Pattern](https://github.com/mblacksea/Chain-of-Responsibility-Design-Pattern)**: Temiz kod ve tasarım desenleri örnekleri.
+### 🌟 Featured Repositories
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[hazelcast-test](https://github.com/mblacksea/hazelcast-test)** | Deep dive into distributed data structures and caching mechanisms. | Java, Hazelcast |
+| **[docker-spring-boot-web](https://github.com/mblacksea/docker-spring-boot-web)** | Production-ready containerization for Spring-based web services. | Docker, Spring Boot |
+| **[Design Patterns](https://github.com/mblacksea/Chain-of-Responsibility-Design-Pattern)** | Implementation of complex design patterns for clean & maintainable code. | Java, OOP Principles |
 
 ---
 
-### 📫 Bana Ulaşın
+### 📫 Let's Connect
 <div align="left">
   <a href="https://linkedin.com/in/MUSTAFA_LINKEDIN_KULLANICI_ADI" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:MUSTAFA_EMAIL_ADRESI" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mblacksea&label=Profil%20Görüntüleme&color=0099ff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mblacksea&label=Profile%20Views&color=0099ff&style=for-the-badge" />
 </div>
