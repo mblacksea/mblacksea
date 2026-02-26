@@ -30,14 +30,6 @@ I am a results-driven **Senior Software Engineer** specializing in high-performa
 
 ---
 
-### 📊 GitHub Contributions
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mblacksea&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mblacksea&layout=compact&theme=tokyonight&border_radius=10" />
-</div>
-
----
-
 ### 📫 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/mustafa-karadeniz/" target="_blank">
