@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0099ff&height=200&section=header&text=Mustafa%20Karadeniz&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=Mustafa%20Karadeniz&fontSize=70&pause=1000" alt="header" />
 </div>
 
 <div align="center">
@@ -50,19 +50,6 @@ I am a dedicated **Senior Software Engineer** with a strong focus on building hi
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Engineering Insights
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mblacksea&show_icons=true&theme=radical&rank_icon=github&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mblacksea&layout=compact&theme=radical&border_radius=10" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mblacksea&theme=radical&border_radius=10" />
-</div>
 
 ---
 
