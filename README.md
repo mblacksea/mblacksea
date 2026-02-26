@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=Mustafa%20Karadeniz&fontSize=70&pause=1000" alt="header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=0099ff&center=true&vCenter=true&width=800&height=100&lines=MUSTAFA+KARADENIZ;Senior+Software+Engineer" alt="Header" />
 </div>
 
 <div align="center">
-  <h3>🚀 Senior Software Engineer | Distributed Systems & Backend Architect</h3>
+  <h3>⚡ Architecting Scalable & Resilient Systems</h3>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0099ff&center=true&vCenter=true&width=500&lines=Architecting+Scalable+Microservices;Mastering+Distributed+Caching;Java+Expertise+%26+Cloud+Native;Driving+Technical+Excellence)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Java+Backend+Specialist;Distributed+Caching+Expert;Cloud+Native+Architect;Problem+Solver+at+Scale)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -13,7 +13,7 @@
 ### 🔭 Professional Profile
 I am a results-driven **Senior Software Engineer** specializing in high-performance backend architectures. With extensive experience in the **Java ecosystem**, I focus on building resilient distributed systems capable of handling high-throughput data processing.
 
-- ⚡ **Core Expertise:** Java, Spring Boot.
+- ⚡ **Core Expertise:** Java, Spring Boot, and Distributed Systems.
 - 🏗️ **System Design:** Expert in Microservices, Event-Driven Architecture, and API Design.
 - 🛠️ **Optimization:** Skilled in JVM tuning, SQL/NoSQL performance, and cloud-native scaling.
 - 🎓 **Focus:** Currently deep-diving into Kubernetes orchestration and advanced System Design patterns.
@@ -24,9 +24,27 @@ I am a results-driven **Senior Software Engineer** specializing in high-performa
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,postgres,mongodb,redis,maven,git,idea,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,kubernetes,postgres,mongodb,redis,maven,git,idea,linux" />
   </a>
 </p>
+
+---
+
+### 📊 GitHub Contributions
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mblacksea&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mblacksea&layout=compact&theme=tokyonight&border_radius=10" />
+</div>
+
+---
+
+### 🌟 Featured Repositories
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[hazelcast-test](https://github.com/mblacksea/hazelcast-test)** | Deep dive into distributed data structures and caching mechanisms. | Java, Hazelcast |
+| **[docker-spring-boot-web](https://github.com/mblacksea/docker-spring-boot-web)** | Production-ready containerization for Spring-based web services. | Docker, Spring Boot |
+| **[Design Patterns](https://github.com/mblacksea/Chain-of-Responsibility-Design-Pattern)** | Clean code implementations of complex behavioral patterns. | Java, OOP |
 
 ---
 
