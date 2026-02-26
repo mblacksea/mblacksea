@@ -13,7 +13,7 @@
 ### 🔭 Professional Profile
 I am a results-driven **Senior Software Engineer** specializing in high-performance backend architectures. With extensive experience in the **Java ecosystem**, I focus on building resilient distributed systems capable of handling high-throughput data processing.
 
-- ⚡ **Core Expertise:** Java, Spring Boot, and Distributed Systems.
+- ⚡ **Core Expertise:** Java, Spring Boot.
 - 🏗️ **System Design:** Expert in Microservices, Event-Driven Architecture, and API Design.
 - 🛠️ **Optimization:** Skilled in JVM tuning, SQL/NoSQL performance, and cloud-native scaling.
 - 🎓 **Focus:** Currently deep-diving into Kubernetes orchestration and advanced System Design patterns.
@@ -24,7 +24,7 @@ I am a results-driven **Senior Software Engineer** specializing in high-performa
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,kubernetes,postgres,mongodb,redis,maven,git,idea,linux" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,kubernetes,postgres,mongodb,redis,maven,git,idea" />
   </a>
 </p>
 
@@ -35,16 +35,6 @@ I am a results-driven **Senior Software Engineer** specializing in high-performa
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mblacksea&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mblacksea&layout=compact&theme=tokyonight&border_radius=10" />
 </div>
-
----
-
-### 🌟 Featured Repositories
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[hazelcast-test](https://github.com/mblacksea/hazelcast-test)** | Deep dive into distributed data structures and caching mechanisms. | Java, Hazelcast |
-| **[docker-spring-boot-web](https://github.com/mblacksea/docker-spring-boot-web)** | Production-ready containerization for Spring-based web services. | Docker, Spring Boot |
-| **[Design Patterns](https://github.com/mblacksea/Chain-of-Responsibility-Design-Pattern)** | Clean code implementations of complex behavioral patterns. | Java, OOP |
 
 ---
 
