@@ -13,7 +13,7 @@
 ### 🔭 Professional Profile
 I am a dedicated **Senior Software Engineer** with a strong focus on building high-performance, scalable, and resilient backend architectures. With a deep background in the **Java ecosystem**, I specialize in designing distributed systems that handle high throughput and complex data flows.
 
-- ⚡ **Expertise:** Core Java, Spring Boot, and Distributed Caching (Hazelcast).
+- ⚡ **Expertise:** Core Java, Spring Boot.
 - 🏗️ **Architecture:** Passionate about Event-Driven Design, Microservices, and Cloud-Native applications.
 - 🛠️ **Problem Solver:** Experienced in performance tuning, JVM optimization, and refactoring legacy systems into modern architectures.
 - 🎓 **Continuous Learner:** Currently exploring Advanced System Design and Kubernetes orchestration.
@@ -48,10 +48,6 @@ I am a dedicated **Senior Software Engineer** with a strong focus on building hi
       <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
       <br>MongoDB
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=android" width="40" height="40" alt="Android" />
-      <br>Android
-    </td>
   </tr>
 </table>
 
@@ -67,16 +63,6 @@ I am a dedicated **Senior Software Engineer** with a strong focus on building hi
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mblacksea&theme=radical&border_radius=10" />
 </div>
-
----
-
-### 🌟 Featured Repositories
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[hazelcast-test](https://github.com/mblacksea/hazelcast-test)** | Deep dive into distributed data structures and caching mechanisms. | Java, Hazelcast |
-| **[docker-spring-boot-web](https://github.com/mblacksea/docker-spring-boot-web)** | Production-ready containerization for Spring-based web services. | Docker, Spring Boot |
-| **[Design Patterns](https://github.com/mblacksea/Chain-of-Responsibility-Design-Pattern)** | Implementation of complex design patterns for clean & maintainable code. | Java, OOP Principles |
 
 ---
 
