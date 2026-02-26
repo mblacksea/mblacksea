@@ -68,10 +68,10 @@ I am a dedicated **Senior Software Engineer** with a strong focus on building hi
 
 ### 📫 Let's Connect
 <div align="left">
-  <a href="https://linkedin.com/in/MUSTAFA_LINKEDIN_KULLANICI_ADI" target="_blank">
+  <a href="https://www.linkedin.com/in/mustafa-karadeniz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:MUSTAFA_EMAIL_ADRESI" target="_blank">
+  <a href="mailto:mustafa.blacksea93@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
