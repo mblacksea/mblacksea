@@ -3,28 +3,25 @@
 </div>
 
 <div align="center">
-  <h3>⚡ Architecting Scalable & Resilient Systems</h3>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Java+Backend+Specialist;Distributed+Caching+Expert;Cloud+Native+Architect;Problem+Solver+at+Scale)](https://git.io/typing-svg)
+  <h3>🚀 Building Scalable & High-Performance Backend Systems</h3>
 </div>
 
 ---
 
-### 🔭 Professional Profile
-I am a results-driven **Senior Software Engineer** specializing in high-performance backend architectures. With extensive experience in the **Java ecosystem**, I focus on building resilient distributed systems capable of handling high-throughput data processing.
+### 🔭 About Me
+I am a **Senior Software Engineer** focused on designing and developing robust backend systems. Specialized in the **Java ecosystem**, I build reliable, high-throughput applications and scalable microservice architectures.
 
-- ⚡ **Core Expertise:** Java, Spring Boot.
-- 🏗️ **System Design:** Expert in Microservices, Event-Driven Architecture, and API Design.
-- 🛠️ **Optimization:** Skilled in JVM tuning, SQL/NoSQL performance, and cloud-native scaling.
-- 🎓 **Focus:** Currently deep-diving into Kubernetes orchestration and advanced System Design patterns.
+- ⚡ **Focus:** Java & Spring Boot Development
+- 🏗️ **Architecture:** Microservices, Event-Driven Systems, API Design
+- ⚙️ **Performance:** Database Optimization, Clean Code, Clean Architecture
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,kubernetes,postgres,mongodb,redis,maven,git,idea" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,postgres,redis,git,idea" />
   </a>
 </p>
 
