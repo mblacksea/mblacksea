@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=0099ff&center=true&vCenter=true&width=800&height=100&lines=MUSTAFA+KARADENIZ;Senior+Software+Engineer" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=0099ff&center=true&vCenter=true&width=800&height=100&lines=SENIOR+SOFTWARE+ENGINEER;Java+%26+Spring+Boot+Specialist" alt="Header" />
 </div>
 
 <div align="center">
@@ -12,8 +12,8 @@
 I am a **Senior Software Engineer** focused on designing and developing robust backend systems. Specialized in the **Java ecosystem**, I build reliable, high-throughput applications and scalable microservice architectures.
 
 - ⚡ **Focus:** Java & Spring Boot Development
-- 🏗️ **Architecture:** Microservices, Event-Driven Systems, API Design
-- ⚙️ **Performance:** Database Optimization, Clean Code, Clean Architecture
+- 🏗️ **Architecture:** Microservices, Event-Driven Systems, RESTful APIs
+- ⚙️ **Performance:** Database Optimization, Clean Code & Software Engineering Best Practices
 
 ---
 
@@ -21,7 +21,7 @@ I am a **Senior Software Engineer** focused on designing and developing robust b
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,postgres,redis,git,idea" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,postgres,mongodb,redis,rabbitmq,gitlab,grafana,prometheus,postman,maven,git,idea" />
   </a>
 </p>
 
